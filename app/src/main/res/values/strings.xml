@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVVM Project Example</string>
+    <string name="input_text">Insert a title</string>
+    <string name="button_text">Insert</string>
 </resources>
